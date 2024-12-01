@@ -1,16 +1,12 @@
-# teste_vaga
+Para o teste foi desenvolvido um app onde realiza todas as solicitações feitas.
+versão do flutter utilizada: 3.19.6
 
-A new Flutter project.
+Para a tarefa 1, acesse o aplicativo e vá em tarefas, cadastre uma tarefa no botão 'Cadastrar Tarefa', após isso ela será listada na pagina de tarefas em si, onde poderá excluir ou setar ela como completa clicando no check box.
 
-## Getting Started
+Para a tarefa 2, foi realizado a integração com a API openweathermap, caso a aplicação for aberta em um emulador do android studio, deve-se setar uma localização (com o emulador aberto, vá nas configurações, 'Localização' e selecione o local desejado), feito isso na tela principal da aplicação é só clicar em Previsão do Tempo que será carregado a temperatura maxima, minima atual e a humidade.
 
-This project is a starting point for a Flutter application.
+Para a tarefa 3, todas as telas tem navegação entre elas, exemplo, Produto >> Cadastro Produto ou Tarefas >> Cadastro Tarefas.
 
-A few resources to get you started if this is your first Flutter project:
+Para a tarefa 4 foi desenvolvido um switch na tela principal.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Para a tarefa 5, foi desenvolvido um banco de dados no qual vai salvar as tarefas incluidas, os produtos e a configuração também. 
